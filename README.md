@@ -2,11 +2,13 @@
  * @Author: dumdum && 1242579562@qq.com
  * @Date: 2023-01-16 17:35:04
  * @LastEditors: dumdum && 1242579562@qq.com
- * @LastEditTime: 2023-01-16 19:50:50
+ * @LastEditTime: 2023-01-16 19:55:32
  * @FilePath: \code\effective_cpp_study\README.md
  * @Description: 
 -->
 # effective_cpp_study
-This a learning process record of learning effective c++<dr>
+This a learning process record of learning effective c++
+
 这个是dumdum的effectivec++的学习记录，然后里面包含一些对effectivec++的个人理解还有实现代码，可能有误，请谨慎参考！emmm
-测试上传
+
+在次测试上传
